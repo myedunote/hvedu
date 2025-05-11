@@ -7,5 +7,7 @@
   "buildConfig": {
     "nodeCompatibility": true
   },
-  "compatibilityFlags": ["nodejs_compat"]
+  "compatibility": {
+    "flags": ["nodejs_compat"]
+  }
 }
