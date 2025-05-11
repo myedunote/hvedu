@@ -1,0 +1,14 @@
+name = "turkish-college-website"
+compatibility_date = "2023-10-30"
+compatibility_flags = ["nodejs_compat"]
+node_compat = true
+
+[build]
+command = "npm run build"
+
+[build.upload]
+format = "service-worker"
+
+[[build.environment]]
+name = "NODE_VERSION"
+value = "20.0.0"
