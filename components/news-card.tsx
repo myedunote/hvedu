@@ -15,7 +15,7 @@ export default function NewsCard({ title, date, description, href, imageSrc }: N
     <Card className="flex flex-col overflow-hidden border-0 shadow-md">
       <div className="relative h-48 w-full overflow-hidden">
         <Image
-          src={imageSrc || "/placeholder.svg"}
+          src={imageSrc || "/images/placeholder.png"}
           alt={title}
           fill
           className="object-cover transition-transform duration-300 hover:scale-105"

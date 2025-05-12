@@ -3,7 +3,10 @@
   "outputDirectory": ".next",
   "framework": "nextjs",
   "nodeVersion": "20",
-  "routes": [{ "handle": "filesystem" }, { "src": "/(.*)", "dest": "/_worker.js" }],
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "dest": "/_worker.js" }
+  ],
   "buildConfig": {
     "nodeCompatibility": true
   },

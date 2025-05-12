@@ -7,32 +7,32 @@ import ImageGallery from "@/components/image-gallery"
 
 const campusImages = [
   {
-    src: "/placeholder.svg?height=600&width=800",
+    src: "/images/placeholder.png",
     alt: "Main campus building",
     caption: "Main Administration Building",
   },
   {
-    src: "/placeholder.svg?height=600&width=800",
+    src: "/images/placeholder.png",
     alt: "University library",
     caption: "University Library",
   },
   {
-    src: "/placeholder.svg?height=600&width=800",
+    src: "/images/placeholder.png",
     alt: "Engineering building",
     caption: "College of Engineering",
   },
   {
-    src: "/placeholder.svg?height=600&width=800",
+    src: "/images/placeholder.png",
     alt: "Sports facilities",
     caption: "Sports Complex",
   },
   {
-    src: "/placeholder.svg?height=600&width=800",
+    src: "/images/placeholder.png",
     alt: "Student center",
     caption: "Student Center",
   },
   {
-    src: "/placeholder.svg?height=600&width=800",
+    src: "/images/placeholder.png",
     alt: "Research laboratories",
     caption: "Research Laboratories",
   },
@@ -181,14 +181,14 @@ export default function Home() {
             </div>
             <div className="grid grid-cols-1 grid-rows-2 gap-4 sm:gap-6 lg:gap-8">
               <Image
-                src="/placeholder.svg?height=600&width=800"
+                src="/images/placeholder.png"
                 alt="Campus view"
                 width={800}
                 height={600}
                 className="rounded-xl bg-gray-900/5 object-cover shadow-lg"
               />
               <Image
-                src="/placeholder.svg?height=600&width=800"
+                src="/images/placeholder.png"
                 alt="Library interior"
                 width={800}
                 height={600}
@@ -214,21 +214,21 @@ export default function Home() {
               date="May 10, 2025"
               description="Our university has established a new research partnership with the University of Arizona focusing on sustainable engineering solutions."
               href="/news/1"
-              imageSrc="/placeholder.svg?height=400&width=600"
+              imageSrc="/images/placeholder.png"
             />
             <NewsCard
               title="Student Team Wins International Engineering Competition"
               date="May 5, 2025"
               description="A team of our mechanical engineering students has won first place at the International Engineering Design Competition held in Berlin."
               href="/news/2"
-              imageSrc="/placeholder.svg?height=400&width=600"
+              imageSrc="/images/placeholder.png"
             />
             <NewsCard
               title="New Digital Media Arts Center Opening"
               date="April 28, 2025"
               description="The university is proud to announce the opening of our new state-of-the-art Digital Media Arts Center, enhancing our offerings in digital media technology and art."
               href="/news/3"
-              imageSrc="/placeholder.svg?height=400&width=600"
+              imageSrc="/images/placeholder.png"
             />
           </div>
           <div className="mt-12 text-center">

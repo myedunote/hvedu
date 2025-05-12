@@ -11,6 +11,9 @@ const nextConfig = {
   },
   images: {
     unoptimized: true,
+    domains: [],
+    remotePatterns: [],
+    formats: ['image/avif', 'image/webp'],
   },
   experimental: {
     serverComponentsExternalPackages: [],

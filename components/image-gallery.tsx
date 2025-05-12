@@ -21,149 +21,149 @@ export default function ImageGallery({ images: providedImages, className = "" }:
   const defaultImages = [
     // Main Buildings
     {
-      src: "/placeholder.svg?height=600&width=800&text=Campus+Main+Building",
+      src: "/images/placeholder.png",
       alt: "Campus Main Building",
       caption: "Main Administration Building",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=University+Library",
+      src: "/images/placeholder.png",
       alt: "University Library",
       caption: "Central Library",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Engineering+Building",
+      src: "/images/placeholder.png",
       alt: "Engineering Building",
       caption: "College of Engineering",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Arts+Building",
+      src: "/images/placeholder.png",
       alt: "Arts Building",
       caption: "College of Arts and Design",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Science+Building",
+      src: "/images/placeholder.png",
       alt: "Science Building",
       caption: "Science and Research Building",
     },
 
     // Outdoor Spaces
     {
-      src: "/placeholder.svg?height=600&width=800&text=Campus+Garden",
+      src: "/images/placeholder.png",
       alt: "Campus Garden",
       caption: "Beautiful Campus Garden",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Campus+Lake",
+      src: "/images/placeholder.png",
       alt: "Campus Lake",
       caption: "Scenic Campus Lake",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Central+Square",
+      src: "/images/placeholder.png",
       alt: "Central Square",
       caption: "Campus Central Square",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Botanical+Garden",
+      src: "/images/placeholder.png",
       alt: "Botanical Garden",
       caption: "University Botanical Garden",
     },
 
     // Sports Facilities
     {
-      src: "/placeholder.svg?height=600&width=800&text=Sports+Field",
+      src: "/images/placeholder.png",
       alt: "Sports Field",
       caption: "University Sports Field",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Gymnasium",
+      src: "/images/placeholder.png",
       alt: "Gymnasium",
       caption: "Modern Gymnasium",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Swimming+Pool",
+      src: "/images/placeholder.png",
       alt: "Swimming Pool",
       caption: "Olympic-sized Swimming Pool",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Tennis+Courts",
+      src: "/images/placeholder.png",
       alt: "Tennis Courts",
       caption: "Campus Tennis Courts",
     },
 
     // Student Life
     {
-      src: "/placeholder.svg?height=600&width=800&text=Student+Center",
+      src: "/images/placeholder.png",
       alt: "Student Center",
       caption: "Student Activity Center",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Dormitories",
+      src: "/images/placeholder.png",
       alt: "Student Dormitories",
       caption: "Student Residence Halls",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Cafeteria",
+      src: "/images/placeholder.png",
       alt: "University Cafeteria",
       caption: "Campus Dining Hall",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Student+Lounge",
+      src: "/images/placeholder.png",
       alt: "Student Lounge",
       caption: "Relaxation Area for Students",
     },
 
     // Research Facilities
     {
-      src: "/placeholder.svg?height=600&width=800&text=Research+Labs",
+      src: "/images/placeholder.png",
       alt: "Research Laboratories",
       caption: "Advanced Research Laboratories",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Innovation+Center",
+      src: "/images/placeholder.png",
       alt: "Innovation Center",
       caption: "Center for Innovation and Entrepreneurship",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Technology+Hub",
+      src: "/images/placeholder.png",
       alt: "Technology Hub",
       caption: "Campus Technology Hub",
     },
 
     // Seasonal Views
     {
-      src: "/placeholder.svg?height=600&width=800&text=Spring+Campus",
+      src: "/images/placeholder.png",
       alt: "Spring Campus",
       caption: "Campus in Spring Bloom",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Autumn+Campus",
+      src: "/images/placeholder.png",
       alt: "Autumn Campus",
       caption: "Beautiful Fall Colors on Campus",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Winter+Campus",
+      src: "/images/placeholder.png",
       alt: "Winter Campus",
       caption: "Snow-covered Campus",
     },
 
     // Special Views
     {
-      src: "/placeholder.svg?height=600&width=800&text=Aerial+View",
+      src: "/images/placeholder.png",
       alt: "Aerial View",
       caption: "Aerial View of the Entire Campus",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Night+View",
+      src: "/images/placeholder.png",
       alt: "Night View",
       caption: "Campus at Night",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Historical+Building",
+      src: "/images/placeholder.png",
       alt: "Historical Building",
       caption: "Historic Campus Building",
     },
     {
-      src: "/placeholder.svg?height=600&width=800&text=Campus+Entrance",
+      src: "/images/placeholder.png",
       alt: "Campus Entrance",
       caption: "Main Entrance Gate",
     },
@@ -200,7 +200,7 @@ export default function ImageGallery({ images: providedImages, className = "" }:
             onClick={() => openLightbox(index)}
           >
             <Image
-              src={image.src || "/placeholder.svg"}
+              src={image.src || "/images/placeholder.png"}
               alt={image.alt}
               fill
               className="object-cover transition-transform duration-300 group-hover:scale-105"
@@ -235,7 +235,7 @@ export default function ImageGallery({ images: providedImages, className = "" }:
           </Button>
           <div className="relative w-full max-w-4xl h-[80vh]">
             <Image
-              src={images[currentImageIndex].src || "/placeholder.svg"}
+              src={images[currentImageIndex].src || "/images/placeholder.png"}
               alt={images[currentImageIndex].alt}
               fill
               className="object-contain"
