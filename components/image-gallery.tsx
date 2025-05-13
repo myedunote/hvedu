@@ -21,39 +21,39 @@ export default function ImageGallery({ images: providedImages, className = "" }:
   const defaultImages = [
     // Main Buildings
     {
-      src: "/images/placeholder.png",
+      src: "/images/campus/campus-main-building-01.jpg",
       alt: "Campus Main Building",
       caption: "Main Administration Building",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/campus/campus-main-building-02.jpg",
       alt: "University Library",
       caption: "Central Library",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/campus/campus-main-building-03.jpg",
       alt: "Engineering Building",
       caption: "College of Engineering",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/campus/campus-main-building-04.jpg",
       alt: "Arts Building",
       caption: "College of Arts and Design",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/campus/campus-main-building-05.jpg",
       alt: "Science Building",
       caption: "Science and Research Building",
     },
 
     // Outdoor Spaces
     {
-      src: "/images/placeholder.png",
+      src: "/images/campus/campus-main-building-06.jpg",
       alt: "Campus Garden",
       caption: "Beautiful Campus Garden",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/campus/campus-main-building-07.jpg",
       alt: "Campus Lake",
       caption: "Scenic Campus Lake",
     },
