@@ -7,32 +7,32 @@ import ImageGallery from "@/components/image-gallery"
 
 const campusImages = [
   {
-    src: "/images/placeholder.png",
+    src: "/images/campus/campus-main-building-01.jpg",
     alt: "Main campus building",
     caption: "Main Administration Building",
   },
   {
-    src: "/images/placeholder.png",
+    src: "/images/campus/campus-main-building-02.jpg",
     alt: "University library",
     caption: "University Library",
   },
   {
-    src: "/images/placeholder.png",
+    src: "/images/campus/campus-main-building-03.jpg",
     alt: "Engineering building",
     caption: "College of Engineering",
   },
   {
-    src: "/images/placeholder.png",
+    src: "/images/campus/campus-main-building-04.jpg",
     alt: "Sports facilities",
     caption: "Sports Complex",
   },
   {
-    src: "/images/placeholder.png",
+    src: "/images/campus/campus-main-building-05.jpg",
     alt: "Student center",
     caption: "Student Center",
   },
   {
-    src: "/images/placeholder.png",
+    src: "/images/campus/campus-main-building-06.jpg",
     alt: "Research laboratories",
     caption: "Research Laboratories",
   },
