@@ -6,32 +6,32 @@ import ImageGallery from "@/components/image-gallery"
 
 const facultyImages = [
   {
-    src: "/placeholder.svg?height=600&width=800",
+    src: "/images/faculty/facilities-computer-lab-01.jpg?height=600&width=800",
     alt: "Faculty meeting",
     caption: "Faculty collaboration session",
   },
   {
-    src: "/placeholder.svg?height=600&width=800",
+    src: "/images/faculty/facilities-computer-lab-02.jpg?height=600&width=800",
     alt: "Professor teaching",
     caption: "Interactive teaching methods",
   },
   {
-    src: "/placeholder.svg?height=600&width=800",
+    src: "/images/faculty/facilities-computer-lab-03.jpg?height=600&width=800",
     alt: "Research laboratory",
     caption: "Advanced research facilities",
   },
   {
-    src: "/placeholder.svg?height=600&width=800",
+    src: "/images/faculty/facilities-science-laboratory-01.jpg?height=600&width=800",
     alt: "Faculty awards ceremony",
     caption: "Recognizing academic excellence",
   },
   {
-    src: "/placeholder.svg?height=600&width=800",
+    src: "/images/faculty/facilities-science-laboratory-02.jpg?height=600&width=800",
     alt: "International conference",
     caption: "Faculty presenting at international conferences",
   },
   {
-    src: "/placeholder.svg?height=600&width=800",
+    src: "/images/faculty/facilities-library-interior-01.jpg?height=600&width=800",
     alt: "Student mentoring",
     caption: "Faculty mentoring graduate students",
   },

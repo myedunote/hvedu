@@ -5,32 +5,32 @@ import StatsCard from "@/components/stats-card"
 
 const facilityImages = [
   {
-    src: "/images/faculty/facilities-computer-lab-01.jpg?height=600&width=800",
+    src: "/images/facilities/01.jpg?height=600&width=800",
     alt: "Library exterior",
     caption: "University Library - 55,430.29 square meters",
   },
   {
-    src: "/images/faculty/facilities-computer-lab-02.jpg?height=600&width=800",
+    src: "/images/facilities/02.jpg?height=600&width=800",
     alt: "Library interior",
     caption: "Library collection of over 2.8484 million books",
   },
   {
-    src: "/images/faculty/facilities-computer-lab-03.jpg?height=600&width=800",
+    src: "/images/facilities/03.jpg?height=600&width=800",
     alt: "Computer lab",
     caption: "Advanced computer network with 8,297 digital terminals",
   },
   {
-    src: "/images/faculty/facilities-library-classroom-01.jpg?height=600&width=800",
+    src: "/images/facilities/04.jpg?height=600&width=800",
     alt: "Research equipment",
     caption: "Teaching and research equipment valued at 463 million yuan",
   },
   {
-    src: "/images/faculty/facilities-library-classroom-02.jpg?height=600&width=800",
+    src: "/images/facilities/05.jpg?height=600&width=800",
     alt: "Sports track",
     caption: "Standard plastic track and field",
   },
   {
-    src: "/images/faculty/facilities-library-interior-01?height=600&width=800",
+    src: "/images/facilities/06.jpg?height=600&width=800",
     alt: "Gymnasium",
     caption: "Modern gymnasium and sports facilities",
   },

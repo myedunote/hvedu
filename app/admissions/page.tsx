@@ -188,7 +188,7 @@ export default function AdmissionsPage() {
                   <Card className="overflow-hidden">
                     <div className="relative h-48">
                       <Image
-                        src="/placeholder.svg?height=400&width=600"
+                        src="/images/partners/University of Arizona.webp?height=400&width=600"
                         alt="Packaging Engineering"
                         fill
                         className="object-cover"
@@ -207,7 +207,7 @@ export default function AdmissionsPage() {
                   <Card className="overflow-hidden">
                     <div className="relative h-48">
                       <Image
-                        src="/placeholder.svg?height=400&width=600"
+                        src="/images/partners/Stuttgart University.jpg?height=400&width=600"
                         alt="Materials Science and Engineering"
                         fill
                         className="object-cover"
@@ -226,7 +226,7 @@ export default function AdmissionsPage() {
                   <Card className="overflow-hidden">
                     <div className="relative h-48">
                       <Image
-                        src="/placeholder.svg?height=400&width=600"
+                        src="/images/partners/Macquarie University.jpg?height=400&width=600"
                         alt="Mechanical Design, Manufacturing, and Automation"
                         fill
                         className="object-cover"
@@ -249,7 +249,7 @@ export default function AdmissionsPage() {
                   <Card className="overflow-hidden">
                     <div className="relative h-48">
                       <Image
-                        src="/placeholder.svg?height=400&width=600"
+                        src="/images/partners/City University of Hong Kong.jpg?height=400&width=600"
                         alt="Visual Communication Design"
                         fill
                         className="object-cover"
@@ -268,7 +268,7 @@ export default function AdmissionsPage() {
                   <Card className="overflow-hidden">
                     <div className="relative h-48">
                       <Image
-                        src="/placeholder.svg?height=400&width=600"
+                        src="/images/news/09.jpg?height=400&width=600"
                         alt="Digital Media Art"
                         fill
                         className="object-cover"
@@ -291,7 +291,7 @@ export default function AdmissionsPage() {
                   <Card className="overflow-hidden">
                     <div className="relative h-48">
                       <Image
-                        src="/placeholder.svg?height=400&width=600"
+                        src="/images/news/10.jpg?height=400&width=600"
                         alt="International Economics and Trade"
                         fill
                         className="object-cover"
@@ -314,7 +314,7 @@ export default function AdmissionsPage() {
                   <Card className="overflow-hidden">
                     <div className="relative h-48">
                       <Image
-                        src="/placeholder.svg?height=400&width=600"
+                        src="/images/news/11.jpg?height=400&width=600"
                         alt="Digital Media Technology"
                         fill
                         className="object-cover"
@@ -333,7 +333,7 @@ export default function AdmissionsPage() {
                   <Card className="overflow-hidden">
                     <div className="relative h-48">
                       <Image
-                        src="/placeholder.svg?height=400&width=600"
+                        src="/images/news/12.jpg?height=400&width=600"
                         alt="New Energy Materials and Devices"
                         fill
                         className="object-cover"

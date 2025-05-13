@@ -58,112 +58,112 @@ export default function ImageGallery({ images: providedImages, className = "" }:
       caption: "Scenic Campus Lake",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/faculty/facilities-science-laboratory-01.jpg",
       alt: "Central Square",
       caption: "Campus Central Square",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/faculty/facilities-science-laboratory-02.jpg",
       alt: "Botanical Garden",
       caption: "University Botanical Garden",
     },
 
     // Sports Facilities
     {
-      src: "/images/placeholder.png",
+      src: "/images/facilities/01.jpg",
       alt: "Sports Field",
       caption: "University Sports Field",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/facilities/02.jpg",
       alt: "Gymnasium",
       caption: "Modern Gymnasium",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/facilities/03.jpg",
       alt: "Swimming Pool",
       caption: "Olympic-sized Swimming Pool",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/facilities/04.jpg",
       alt: "Tennis Courts",
       caption: "Campus Tennis Courts",
     },
 
     // Student Life
     {
-      src: "/images/placeholder.png",
+      src: "/images/students/01.jpg",
       alt: "Student Center",
       caption: "Student Activity Center",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/students/02.jpg",
       alt: "Student Dormitories",
       caption: "Student Residence Halls",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/students/03.jpg",
       alt: "University Cafeteria",
       caption: "Campus Dining Hall",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/students/04.jpg",
       alt: "Student Lounge",
       caption: "Relaxation Area for Students",
     },
 
     // Research Facilities
     {
-      src: "/images/placeholder.png",
+      src: "/images/students/05.jpg",
       alt: "Research Laboratories",
       caption: "Advanced Research Laboratories",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/students/06.jpg",
       alt: "Innovation Center",
       caption: "Center for Innovation and Entrepreneurship",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/students/07.jpg",
       alt: "Technology Hub",
       caption: "Campus Technology Hub",
     },
 
     // Seasonal Views
     {
-      src: "/images/placeholder.png",
+      src: "/images/students/08.jpg",
       alt: "Spring Campus",
       caption: "Campus in Spring Bloom",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/students/09.jpg",
       alt: "Autumn Campus",
       caption: "Beautiful Fall Colors on Campus",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/students/10.jpg",
       alt: "Winter Campus",
       caption: "Snow-covered Campus",
     },
 
     // Special Views
     {
-      src: "/images/placeholder.png",
+      src: "/images/students/11.jpg",
       alt: "Aerial View",
       caption: "Aerial View of the Entire Campus",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/news/01.jpg",
       alt: "Night View",
       caption: "Campus at Night",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/news/02.jpg",
       alt: "Historical Building",
       caption: "Historic Campus Building",
     },
     {
-      src: "/images/placeholder.png",
+      src: "/images/news/03.jpg",
       alt: "Campus Entrance",
       caption: "Main Entrance Gate",
     },
