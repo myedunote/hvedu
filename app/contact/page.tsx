@@ -57,9 +57,9 @@ export default function ContactPage() {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-muted-foreground">General Inquiries: info@tczsic.edu.tr</p>
-                <p className="mt-2 text-muted-foreground">Admissions: admissions@tczsic.edu.tr</p>
-                <p className="mt-2 text-muted-foreground">International Office: international@tczsic.edu.tr</p>
+                <p className="text-muted-foreground">General Inquiries: admin@hv.edu.kg</p>
+                <p className="mt-2 text-muted-foreground">Admissions: admin@hv.edu.kg</p>
+                <p className="mt-2 text-muted-foreground">International Office: admin@hv.edu.kg</p>
               </CardContent>
             </Card>
           </div>
